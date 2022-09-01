@@ -9,5 +9,8 @@ def test_it():
 	'''
 	Write a simple test.
 	'''
+	s = Stack()
+	size=s.push(1)
+	assert s.size() == 1
 
 	raise NotImplementedError('Need to implement a simple test.')
