@@ -61,3 +61,10 @@ class Stack:
         '''
 
         return self.elements
+
+def main():
+    print("Test")
+
+
+if __name__=="msin":
+    main()
