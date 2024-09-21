@@ -65,6 +65,5 @@ class Stack:
 def main():
     print("Test")
 
-
-if __name__=="msin":
+if __name__=="main":
     main()
